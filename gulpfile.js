@@ -66,7 +66,7 @@ gulp.task('styles', function() {
  * Automatically resize post feature images and turn them into thumbnails
  */
 gulp.task("thumbnails", function () {
-  gulp.src("assets/images/hero/*.{jpg,png}")
+  gulp.src("assets/images/cities/*.{jpg,png}")
     .pipe(parallel(
       imageResize({ width : 350 }),
       os.cpus().length
@@ -81,7 +81,7 @@ gulp.task("thumbnails", function () {
  */
 gulp.task('watch', function() {
   gulp.watch('_scss/**/*.scss', ['styles']);
-  gulp.watch('assets/images/hero/*.{jpg,png}', ['thumbnails']);
+  gulp.watch('assets/images/cities/*.{jpg,png}', ['thumbnails']);
   gulp.watch(['*.html',
           '*.txt',
           'about/**',
