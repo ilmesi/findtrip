@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Television and later films"
-date:   1983-12-16 01:00:00
-date:   1983-12-16 01:00:00
+title:  "Costa Brava en invierno"
+subtitle:  "Barcelona - Roses - Cadaques - Begur - Palamós"
+date:   2016-02-16 00:00:00
+last_modified_at:  2016-02-16 00:00:00
 excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: history
 tags:  mickey
 image:
-  feature: mickey-tv.jpg
+  feature: palamos.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

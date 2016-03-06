@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Mickey Mouse"
-date:   2014-11-28 01:00:00
-last_modified_at:  2014-11-28 01:00:00
-excerpt: "Mickey Mouse is a funny animal cartoon character and the official mascot of..."
+title:  "Conociendo pueblos cerca de Girona"
+subtitle:  "Barcelona - Girona - Besalú - Banyoles"
+date:   2016-02-23 00:00:00
+last_modified_at:  2016-02-23 00:00:00
+excerpt: "Conociendo pueblos cerca de Girona"
 categories: history
-tags:  mickey
+tags:  Barcelona,Girona,Besalú,Banyoles
 image:
-  feature: mickey-mouse.jpg
+  feature: girona.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
