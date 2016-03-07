@@ -37,7 +37,7 @@ Sabías que la serie <a href="http://www.lavanguardia.com/local/girona/20150909/
     </div>
   </div>
   <div class="col-md-6">
-    <img style="width: 100%; border-radius: 30px;" src="{{ site.baseurl_routes_img }}barcelona_peniscola.png" />
+    <img style="width: 100%; border-radius: 30px;" src="{{ site.baseurl_routes_img }}barcelona_girona.png" />
   </div>
 </div>
 <hr>
@@ -67,7 +67,7 @@ Como llegar a Besalú? Puedes tomar el bus con destino a Olot por € 1.85 !
     </div>
   </div>
   <div class="col-md-6">
-    <img style="width: 100%; border-radius: 30px;" src="{{ site.baseurl_routes_img }}barcelona_peniscola.png" />
+    <img style="width: 100%; border-radius: 30px;" src="{{ site.baseurl_routes_img }}barcelona_girona.png" />
   </div>
 </div>
 
