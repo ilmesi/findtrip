@@ -70,6 +70,5 @@ Como llegar a Besalú? Puedes tomar el bus con destino a Olot por € 1.85 !
     <img style="width: 100%; border-radius: 30px;" src="{{ site.baseurl_routes_img }}barcelona_peniscola.png" />
   </div>
 </div>
-<hr>
 
 Si te ha gustado nuestra idea, dejanos un comentario!
