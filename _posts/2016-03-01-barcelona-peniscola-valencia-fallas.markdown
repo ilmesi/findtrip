@@ -20,7 +20,7 @@ syntaxHighlighter: no
 - 2 ciudades
 - Menos de € 100 !
 
-[Alsa](https://www.alsa.es/-/fallas) posee ofertas desde € 5 para varios trayectos, entre ellos: Valencia. El mes de marzo es especial en Valencia debido a las <a href="https://es.wikipedia.org/wiki/Fallas_de_Valencia" target="_blank">fallas</a>! Que estás esperando?
+[Alsa](https://www.alsa.es/-/fallas) posee ofertas desde € 5 para varios trayectos, entre ellos: Valencia. El mes de marzo es especial en Valencia debido a las <a href="https://es.wikipedia.org/wiki/Fallas_de_Valencia" target="_blank">fallas</a>! Que esperas?
 
 
 <hr>
@@ -78,3 +78,5 @@ Valencia
     <img style="width: 100%; border-radius: 30px;" src="{{ site.baseurl_routes_img }}barcelona_peniscola.png" />
   </div>
 </div>
+
+Si te ha gustado nuestra idea, dejanos un comentario!
