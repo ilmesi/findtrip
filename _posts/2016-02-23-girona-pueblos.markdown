@@ -5,7 +5,7 @@ subtitle:  "Barcelona - Girona - Besalú - Banyoles"
 date:   2016-02-23 00:00:00
 last_modified_at:  2016-02-23 00:00:00
 excerpt: "Conociendo pueblos cerca de Girona"
-categories: history
+description: "El encanto de la joya de la corona de Cataluña"
 tags:  Barcelona,Girona,Besalú,Banyoles
 image:
   feature: girona.jpg
@@ -14,14 +14,62 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
+#### Estás cerca de una de las ciudades más lindas de Cataluña!
 
-Mickey Mouse is a funny animal cartoon character and the official mascot of [The Walt Disney Company](https://en.wikipedia.org/wiki/The_Walt_Disney_Company). He was created by Walt Disney and Ub Iwerks at the Walt Disney Studios in 1928. An anthropomorphic mouse who typically wears red shorts, large yellow shoes, and white gloves, Mickey has become one of the most recognizable cartoon characters in the world.
+- 2 días
+- 3 ciudades
+- Menos de € 18 !
 
-Mickey first was seen in a single test screening (Plane Crazy). Mickey officially debuted in the short film Steamboat Willie (1928), one of the first sound cartoons. He went on to appear in over 130 films, including The Band Concert (1935), Brave Little Tailor (1938), and Fantasia (1940). Mickey appeared primarily in short films, but also occasionally in feature-length films. Ten of Mickey's cartoons were nominated for the Academy Award for Best Animated Short Film, one of which, Lend a Paw, won the award in 1942. In 1978, Mickey became the first cartoon character to have a star on the Hollywood Walk of Fame.
+La ciudad de Girona es una de las ciudades más interesantes e históricas de Cataluña, que te parece un fin de semana para conocer esta hermosa ciudad y alguno de los tantos pueblos la rodean? Te recomendamos Bañyoles y Besalú!
 
-<blockquote class="largeQuote">“Don't Stress Over Anything You Can't Change.” <br/>- Mickey Mouse</blockquote>
+Sabías que la serie <a href="http://www.lavanguardia.com/local/girona/20150909/54436374844/girona-rodaje-juego-de-tronos.html" target="_blank">Games of Thrones</a> la utilizó para realizar varias de sus escenas? Que esperas!?
 
-Beginning in 1930, Mickey has also been featured extensively as a comic strip character. His self-titled newspaper strip, drawn primarily by Floyd Gottfredson, ran for 45 years. Mickey has also appeared in comic books and in television series such as The Mickey Mouse Club (1955–1996) and others. He also appears in other media such as video games as well as merchandising, and is a meetable character at the Disney parks.
 
-Mickey generally appears alongside his girlfriend Minnie Mouse, his pet dog Pluto, his friends Donald Duck, and Goofy, and his nemesis Pete, among others (see Mickey Mouse universe). Originally characterized as a mischievous antihero, Mickey's increasing popularity led to his being rebranded as an everyman, usually seen as a flawed, but adventurous hero. In 2009, Disney began to rebrand the character again by putting less emphasis on his pleasant, cheerful side and reintroducing the more mischievous and adventurous sides of his personality, beginning with the video game Epic Mickey.
+<hr>
+<div class="row">
+  <div class="col-md-6 text-center">
+    Barcelona - Girona
+    <hr>
+    <br>
+    <img style="width: 20%;" src="{{ site.baseurl_icons_img }}bus.svg" />
+    <div>
+      <a target="_blank" href="http://www.goeuro.es/trenes_desde_barcelona_a_girona">Ver disponibilidad</a>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <img style="width: 100%; border-radius: 30px;" src="{{ site.baseurl_routes_img }}barcelona_peniscola.png" />
+  </div>
+</div>
+<hr>
+<div class="text-center">
+Hospedajes en Girona
+<a href="http://www.booking.com/city/es/girona.html?aid=956648">Ver disponibilidad</a>
+</div>
+<hr>
+<div class="text-center">
+Como llegar a Banyoles? Puedes tomar el bus con destino a Olot por € 2,60 !
+<a href="http://www.teisa-bus.com/es/bus-interurbano">Ver horarios</a>
+</div>
+<hr>
+<div class="text-center">
+Como llegar a Besalú? Puedes tomar el bus con destino a Olot por € 1.85 !
+<a href="http://www.teisa-bus.com/es/bus-interurbano">Ver horarios</a>
+</div>
+<hr>
+<div class="row">
+  <div class="col-md-6 text-center">
+    Girona - Barcelona
+    <hr>
+    <br>
+    <img style="width: 20%;" src="{{ site.baseurl_icons_img }}bus.svg" />
+    <div>
+      <a target="_blank" href="http://www.goeuro.es/trenes_desde_girona_a_barcelona">Ver disponibilidad</a>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <img style="width: 100%; border-radius: 30px;" src="{{ site.baseurl_routes_img }}barcelona_peniscola.png" />
+  </div>
+</div>
+<hr>
+
+Si te ha gustado nuestra idea, dejanos un comentario!

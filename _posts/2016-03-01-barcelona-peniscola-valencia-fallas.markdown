@@ -40,7 +40,7 @@ syntaxHighlighter: no
 </div>
 <hr>
 <div class="text-center">
-Peñíscola
+Hospedajes en Peñíscola
 <a href="http://www.booking.com/city/es/peniscola.html?aid=956648">Ver disponibilidad</a>
 </div>
 <hr>
@@ -60,7 +60,7 @@ Peñíscola
 </div>
 <hr>
 <div class="text-center">
-Valencia
+Hospedajes en Valencia
 <a href="http://www.booking.com/city/es/valencia.html?aid=956648">Ver disponibilidad</a>
 </div>
 <hr>
