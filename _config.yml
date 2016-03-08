@@ -21,12 +21,12 @@ description:         'description'
 url:                 findtrip.co
 rss:                 rss feed url
 baseurl:             '/findtrip'
-baseurl_icons_img:   '/assets/images/icons/'
-baseurl_routes_img:   '/assets/images/routes/'
-baseurl_posts_img:   '/assets/images/posts/'
-baseurl_featured_img: '/assets/images/cities/'
-baseurl_featured_thumbnail: '/assets/images/thumbnail/'
-baseurl_javascripts: '/assets/javascripts/'
+baseurl_icons_img:   '/findtrip/assets/images/icons/'
+baseurl_routes_img:   '/findtrip/assets/images/routes/'
+baseurl_posts_img:   '/findtrip/assets/images/posts/'
+baseurl_featured_img: '/findtrip/assets/images/cities/'
+baseurl_featured_thumbnail: '/findtrip/assets/images/thumbnail/'
+baseurl_javascripts: '/findtrip/assets/javascripts/'
 icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
 disqus:              findtrip # get it on https://disqus.com/admin/
 
