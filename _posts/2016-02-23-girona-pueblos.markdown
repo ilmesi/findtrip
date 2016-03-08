@@ -6,7 +6,7 @@ date:   2016-02-23 00:00:00
 last_modified_at:  2016-02-23 00:00:00
 excerpt: "Conociendo pueblos cerca de Girona"
 description: "El encanto de la joya de la corona de Cataluña"
-tags:  Barcelona,Girona,Besalú,Banyoles
+tags:  Barcelona,Girona,Besalú,Banyoles,salida,fin de semana
 image:
   feature: girona.jpg
   topPosition: -50px

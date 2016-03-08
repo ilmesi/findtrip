@@ -6,7 +6,7 @@ date:   2016-03-01 00:00:00
 last_modified_at:  2016-03-01 00:00:00
 excerpt: "Recorrido por Valencia en fallas"
 description: "Una de las mejores épocas del año para conocer Valencia"
-tags:  Barcelona,Peñíscola,Valencia
+tags:  Barcelona,Peñíscola,Valencia,fallas,salida
 image:
   feature: valencia.jpg
   topPosition: 0px

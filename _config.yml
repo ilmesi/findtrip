@@ -1,6 +1,6 @@
 
 # Syntax highlighting
-markdown:            redcarpet
+markdown:            kramdown
 highlighter:         pygments
 
 # Permalinks
@@ -18,7 +18,7 @@ locale:              es_es
 name:				         Findtrip
 title:               Encuentra salidas divertidas cerca de Barcelona!
 tagline:             'tagline'
-description:         'description'
+description:         'Getaways y salidas divertidas cerca de Barcelona'
 url:                 findtrip.co
 rss:                 rss feed url
 baseurl:             '/'
