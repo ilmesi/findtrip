@@ -9,13 +9,13 @@ highlighter:         pygments
 permalink:           pretty
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
+timezone:            Europe/Barcelona
+locale:              es_es
 name:				         Findtrip
-title:               site title
+title:               Encuentra salidas divertidas cerca de Barcelona!
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 findtrip.co
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_icons_img:   '/assets/images/icons/'
