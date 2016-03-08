@@ -6,7 +6,8 @@ highlighter:         pygments
 # Permalinks
 #permalink:           /:title
 #relative_permalinks: true
-permalink:           /findtrip/findtrip/:year/:month/:day/:title/
+permalink:            pretty
+#permalink:           /findtrip/findtrip/:year/:month/:day/:title/
 
 # Deploy
 github:              https://github.com/ilmesi/findtrip
