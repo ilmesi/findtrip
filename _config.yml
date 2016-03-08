@@ -21,7 +21,7 @@ tagline:             'tagline'
 description:         'description'
 url:                 findtrip.co
 rss:                 rss feed url
-baseurl:             '/findtrip'
+baseurl:             '/'
 baseurl_icons_img:   '/findtrip/assets/images/icons/'
 baseurl_routes_img:   '/findtrip/assets/images/routes/'
 baseurl_posts_img:   '/findtrip/assets/images/posts/'
