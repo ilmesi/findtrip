@@ -8,6 +8,9 @@ highlighter:         pygments
 #relative_permalinks: true
 permalink:           pretty
 
+# Deploy
+github:              https://github.com/ilmesi/findtrip
+
 # Setup
 timezone:            Europe/Barcelona
 locale:              es_es
